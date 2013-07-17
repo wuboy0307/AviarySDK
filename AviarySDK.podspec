@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
       LICENSE
   }
   s.author       = { "Aviary, Inc." => "api@aviary.com" }
-  s.source       = { :git => "https://github.com/bfcrampton/AviarySDK" }
+  s.source       = { :git => "https://github.com/bfcrampton/AviarySDK.git" }
   s.platform     = :ios, '5.0'
   s.source_files = 'AviarySDK-3.1.1-Basic/AviarySDK/Headers/*'
   s.resource  = "AviarySDK-3.1.1-Basic/AviarySDK/Resources/AviarySDKResources.bundle"
